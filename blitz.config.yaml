@@ -1,0 +1,6 @@
+name: invite_spinner
+description: Reward users whom invite others....with a twist
+version: 0.0.1
+
+config:
+    chance: ""
