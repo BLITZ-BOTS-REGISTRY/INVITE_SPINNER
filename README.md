@@ -1,2 +1,3 @@
-# INVITE_SPINNER
-Reward users whom invite others....with a twist
+# Invite Spinner
+
+Must have the [inviter](https://www.blitz-bots.com/plugins/INVITER) plugin installed.
